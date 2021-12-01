@@ -14,7 +14,7 @@ The dataset itself displays the value of UK exports and imports from 1997 to Jan
 
 ## The Anatomy
 
-![enter image description here](https://github.com/RFirmansyah/streamlit-uk-exports/blob/0e5ac4dec1f3de565ce7d2f2f58b3ed462a72240/media/anatomy.png) 
+![enter image description here](https://github.com/RFirmansyah/streamlit-uk-exports/blob/c3e350b11f9f2a79f46d77b93e72140452bfe8f7/media/anatomy.png) 
 
  - Orange color shows the title of the visualization, 
  - Blue color shows a short explanation of the impact of Brexit, 
