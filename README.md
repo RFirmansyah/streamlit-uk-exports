@@ -17,4 +17,7 @@ The dataset itself displays the value of UK exports and imports from 1997 to Jan
 
 ![enter image description here](https://github.com/RFirmansyah/streamlit-uk-exports/blob/0e5ac4dec1f3de565ce7d2f2f58b3ed462a72240/media/anatomy.png) 
 
-the orange color shows the title of the visualization, the blue color shows a short explanation of the impact of Brexit, the purple color shows the line chart of the comparison of UK exports and imports from 1997 to 2021, and finally the green one shows the export and import comparison chart area presented in the form of small multiple 
+ - Orange color shows the title of the visualization, 
+ - Blue color shows a short explanation of the impact of Brexit, 
+ - Purple color shows the line chart of the comparison of UK exports and imports from 1997 to 2021, 
+ - Green one shows the export and import comparison chart area presented in the form of small multiple.
