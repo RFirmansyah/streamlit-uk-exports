@@ -13,8 +13,11 @@ st.set_page_config(layout="wide")
 
 st.markdown('<style>.css-18e3th9{width: 75% !important; padding: 1rem;} .css-fg4pbf{background: azure none repeat scroll 0% 0%}</style>', unsafe_allow_html=True)
 
-st.markdown('<h1><b style="color: #547eac;">Exports</b> to EU plunge by 40% in first month since Brexit</h1>', unsafe_allow_html=True)
-st.markdown('<p>With the United Kingdom leaving the European Union at the end of January 2020, as well as the start of an 11 month transition period, it will have quite a negative impact on the UK economy.</p><p>In the trade sector, especially exports and imports, there was a sharp decline in the first quarter of 2020. Although during the transition period the United Kingdom remained subject to European Union law, it remained part of the EU Customs Union and the European Single Market.</p>', unsafe_allow_html=True)
+st.markdown('<h1>UK <b style="color: #547eac;">Exports</b> to EU plunge by 40% in first month since Brexit</h1>', unsafe_allow_html=True)                
+
+st.markdown('<p>After several delays, United Kingdom will leaving the European Union at the end of January 2020, as well as the start of an 11 month transition period, it will have quite a negative impact on the United Kingdom economy.</p>', unsafe_allow_html=True)
+st.markdown('<p>In the trade sector, especially exports and imports, there was a sharp decline in the first quarter of 2020. Although during the transition period the United Kingdom remained subject to European Union law, it remained part of the EU Customs Union and the European Single Market.</p>', unsafe_allow_html=True)
+st.markdown('<p>The COVID-19 pandemic may have masked the direct impact of Brexit on exports and imports. COVID-19 is also responsible for delaying the implementation of import controls, so as to reduce the impact of inventory shortages.</p>', unsafe_allow_html=True)
     
 with st.container():             
     df_temp = df[['split_year','exports','imports']]
