@@ -15,4 +15,4 @@ The dataset itself displays the value of UK exports and imports from 1997 to Jan
 
 ## The Anatomy
 
-![enter image description here](https://github.com/RFirmansyah/streamlit-uk-exports/blob/96aae7f951c36625fa105ed75a5bd951ebb6ff3e/media/anatomy.png)
+![enter image description here](https://github.com/RFirmansyah/streamlit-uk-exports/blob/0e5ac4dec1f3de565ce7d2f2f58b3ed462a72240/media/anatomy.png)
