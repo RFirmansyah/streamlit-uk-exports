@@ -10,3 +10,9 @@ The original dataset can be found at:
 
 For the sake of this visualization, I've made a few changes and saved it in google spreadsheet format, you can find it at:
 [Google spreadsheet](https://docs.google.com/spreadsheets/d/1jUxkeyYX2D9Xss-ojTAcKVrkXalrCHEVQeDM0PfNb8E/)
+
+The dataset itself displays the value of UK exports and imports from 1997 to January 2021.
+
+## The Anatomy
+
+![enter image description here](https://photos.app.goo.gl/xzEPTVse3u5P6etp7)
