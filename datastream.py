@@ -1,7 +1,7 @@
 import sys
 import subprocess
 
-#subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'gsheetsdb'])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'gsheetsdb'])
 
 from gsheetsdb import connect
 

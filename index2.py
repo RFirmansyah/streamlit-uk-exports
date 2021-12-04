@@ -1,3 +1,8 @@
+import sys
+import subprocess
+
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'streamlit'])
+
 import streamlit as st  
 import altair as alt
 
